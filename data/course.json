@@ -1,0 +1,60 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering"
+    ]
+  ],
+  "legacy_uid": "5de2b231-2f41-955a-feb0-e494fe552337",
+  "instructors": {
+    "content": [
+      "5debccf6-9d81-7b63-77c6-fde09661343a",
+      "726f9338-bfd2-6f5f-b819-4f5644a37318"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fd049284-3b9b-a7dd-741a-714a88be8317",
+    "website": "20-181-computation-for-biological-engineers-fall-2006"
+  },
+  "course_title": "Computation for Biological Engineers",
+  "course_description": "This course covers the analytical, graphical, and numerical methods supporting the analysis and design of integrated biological systems. Topics include modularity and abstraction in biological systems, mathematical encoding of detailed physical problems, numerical methods for solving the dynamics of continuous and discrete chemical systems, statistics and probability in dynamic systems, applied local and global optimization, simple feedback and control analysis, statistics and probability in pattern recognition.\n\nAn official course Web site and Wiki is maintained on OpenWetWare: {{% resource_link \"0c52c344-66ad-45fd-8c6b-665fbff5228e\" \"20.181 Computation for Biological Engineers\" %}}.\n",
+  "department_numbers": [
+    "20"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "20.181",
+  "course_image_thumbnail": {
+    "content": "33227d42-e545-cdad-3f83-15bf9fdcfd36",
+    "website": "20-181-computation-for-biological-engineers-fall-2006"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets with Solutions",
+    "Exams with Solutions"
+  ],
+  "site_uid": "26473c3e-dca5-4926-8aee-9d253bb16eaa",
+  "site_short_id": "20.181-fall-2006",
+  "site_url_path": "courses/20-181-computation-for-biological-engineers-fall-2006",
+  "title": "Course Metadata"
+}
